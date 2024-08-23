@@ -1,0 +1,369 @@
+[
+    {
+        "id": "275",
+        "nombre": "Ace Seguros",
+        "nombrearchivo": "logo_ace_b.png",
+        "grua": "08006668400"
+    },
+    {
+        "id": "297",
+        "nombre": "ACG",
+        "nombrearchivo": "logo_acg_b.png",
+        "grua": ""
+    },
+    {
+        "id": "36",
+        "nombre": "Allianz",
+        "nombrearchivo": "logo_allianz_b.png",
+        "grua": "0800-888-24337"
+    },
+    {
+        "id": "620",
+        "nombre": "Asociart ART",
+        "nombrearchivo": "logo_asociart_b.png",
+        "grua": "0800-888-0093"
+    },
+    {
+        "id": "121",
+        "nombre": "Berkley International",
+        "nombrearchivo": "logo_berkley_b.png",
+        "grua": "0810-555-3031"
+    },
+    {
+        "id": "624",
+        "nombre": "Berkley International ART",
+        "nombrearchivo": "logo_berkleyart_b.png",
+        "grua": "0810-555-3031"
+    },
+    {
+        "id": "32",
+        "nombre": "Boston Seguros",
+        "nombrearchivo": "logo_boston_b.png",
+        "grua": "08008883070"
+    },
+    {
+        "id": "581",
+        "nombre": "Chubb",
+        "nombrearchivo": "logo_chubb_b.png",
+        "grua": "08006668400"
+    },
+    {
+        "id": "553",
+        "nombre": "Cruz Suiza",
+        "nombrearchivo": "logo_cruzsuiza_b.png",
+        "grua": "08103450553"
+    },
+    {
+        "id": "616",
+        "nombre": "Experta ART",
+        "nombrearchivo": "logo_expertaart_b.png",
+        "grua": "08007777278"
+    },
+    {
+        "id": "726",
+        "nombre": "Federacion Patronal",
+        "nombrearchivo": "logo_federacion_b.png",
+        "grua": "08008000022"
+    },
+    {
+        "id": "619",
+        "nombre": "Galeno ART",
+        "nombrearchivo": "logo_galeno_art_b.png",
+        "grua": "08008000022"
+    },
+    {
+        "id": "778",
+        "nombre": "Hanseatica",
+        "nombrearchivo": "logo_hanseatica_b.png",
+        "grua": "+541153532600"
+    },
+    {
+        "id": "720",
+        "nombre": "Integrity",
+        "nombrearchivo": "logo_liberty_b.png",
+        "grua": "0800-222-3700"
+    },
+    {
+        "id": "79",
+        "nombre": "La Holando",
+        "nombrearchivo": "logo_holando_b.png",
+        "grua": "0800-999-0002"
+    },
+    {
+        "id": "244",
+        "nombre": "Meridional",
+        "nombrearchivo": "logo_meridional_b.png",
+        "grua": "0800-333-4358"
+    },
+    {
+        "id": "116",
+        "nombre": "Mercantil Andina",
+        "nombrearchivo": "logo_mercantil_b.png",
+        "grua": "0800-777-263462"
+    },
+    {
+        "id": "515",
+        "nombre": "Nacion Seguros",
+        "nombrearchivo": "logo_nacion_b.png",
+        "grua": "0800-888-9908"
+    },
+    {
+        "id": "744",
+        "nombre": "Noble SA",
+        "nombrearchivo": "logo_noble_b.png",
+        "grua": "+541152392030"
+    },
+    {
+        "id": "862",
+        "nombre": "Omint ART",
+        "nombrearchivo": "logo_omintart_b.png",
+        "grua": "0800-555-0278"
+    },
+    {
+        "id": "293",
+        "nombre": "Orbis",
+        "nombrearchivo": "logo_orbis_b.png",
+        "grua": "0800-333-9111"
+    },
+    {
+        "id": "621",
+        "nombre": "Provincia ART",
+        "grua": "08003331278",
+        "nombrearchivo": "logo_provincia_art_b.png"
+    },
+    {
+        "id": "499",
+        "nombre": "Provincia Seguros",
+        "grua": "08102222444",
+        "nombrearchivo": "logo_provincia_b.png"
+    },
+    {
+        "id": "39",
+        "nombre": "QBE",
+        "grua": "0800-333-987424",
+        "nombrearchivo": "logo_qbe_b.png"
+    },
+    {
+        "id": "192",
+        "nombre": "San Cristobal",
+        "nombrearchivo": "logo_sancristobal_b.png",
+        "grua": "08102228887"
+    },
+    {
+        "id": "626",
+        "nombre": "Sancor Prevención ART",
+        "nombrearchivo": "logo_prevencion_art_b.png",
+        "grua": "08004444278"
+    },
+    {
+        "id": "224",
+        "nombre": "Sancor",
+        "nombrearchivo": "logo_sancor_b.png",
+        "grua": "11-5300-8073"
+    },
+    {
+        "id": "749",
+        "nombre": "Seguros Médicos",
+        "nombrearchivo": "logo_segurosmedicos_b.png",
+        "grua": "+541158113228"
+    },
+    {
+        "id": "25",
+        "nombre": "Sura",
+        "nombrearchivo": "logo_sura_b.png",
+        "grua":  "0800-2222-772"
+    },
+    {
+        "id": "2",
+        "nombre": "SMG",
+        "nombrearchivo": "logo_smg_b.png",
+        "grua": "0810-333-3764"
+    },
+    {
+        "id": "228",
+        "nombre": "Zurich",
+        "nombrearchivo": "logo_zurich_b.png",
+        "grua": "0800-333-987424"
+    },
+    {
+        "id": "852",
+        "nombre": "Libra",
+        "grua": "08009996500",
+        "nombrearchivo": "logo_libra_b.png"
+    },
+    {
+        "id": "1679",
+        "nombre": "Sancor Prevención Salud",
+        "nombrearchivo": "logo_prevencion_b.png",
+        "grua": "08004440000"
+    },
+    {
+        "id": "213",
+        "nombre": "MAPFRE",
+        "nombrearchivo": "logo_mapfre_b.png",
+        "grua": "0810-666-7424"
+    },
+    {
+        "id": "251",
+        "nombre": "Metlife",
+        "nombrearchivo": "logo_metlife_b.png",
+        "grua": "+541153532600"
+    },
+    {
+        "id": "",
+        "nombre": "Allianz",
+        "nombreUy": "UY-ALLIANZ",
+        "nombrearchivo": "logo_allianz_b.png",
+        "siniestros": ""
+    },
+    {
+        "id": "",
+        "nombre": "BSE",
+        "nombreUy": "UY-BSE",
+        "nombrearchivo": "logo_bse_b.png",
+        "siniestros": "08001994",
+        "grua": "08001994"
+    },
+    {
+        "id": "",
+        "nombre": "Mapfre",
+        "nombreUy": "UY-MAPFRE",
+        "nombrearchivo": "logo_mapfre_b.png",
+        "siniestros": "08007424",
+        "grua": "08007424"
+    },
+    {
+        "id": "",
+        "nombre": "Porto Seguro",
+        "nombreUy": "UY-PORTO SEGURO",
+        "nombrearchivo": "logo_portoseguro_b.png",
+        "siniestros": "24878616",
+        "grua": "248786"
+    },
+    {
+        "id": "",
+        "nombre": "San Cristobal",
+        "nombreUy": "UY-SAN CRISTOBAL",
+        "nombrearchivo": "logo_sancristobal_b.png",
+        "siniestros": "08008831",
+        "grua": "08008831"
+    },
+    {
+        "id": "",
+        "nombre": "Sancor",
+        "nombreUy": "UY-SANCOR",
+        "nombrearchivo": "logo_sancor_b.png",
+        "siniestros": "08008500",
+        "grua": "21680000"
+    },
+    {
+        "id": "",
+        "nombre": "Sura",
+        "nombreUy": "UY-SURA",
+        "nombrearchivo": "logo_sura_b.png",
+        "siniestros": "08008120",
+        "grua": "08008120"
+    },
+    {
+        "id": "",
+        "nombre": "Porto Seguro",
+        "nombreUy": "PORTO SEGURO",
+        "nombrearchivo": "logo_portoseguro_b.png",
+        "siniestros": "03003776786",
+        "grua": "03003776786"
+    },
+    {
+        "id": "",
+        "nombre": "Azul Seguros",
+        "nombreUy": "AZUL SEGUROS",
+        "nombrearchivo": "logo_azul_b.png",
+        "siniestros": "03001232985",
+        "grua": "03001232985"
+    },
+    {
+        "id": "",
+        "nombre": "Liberty",
+        "nombreUy": "LIBERTY SEGUROS",
+        "nombrearchivo": "logo_libertybr_b.png",
+        "siniestros": "08007014120",
+        "grua": "08007014120"
+    },
+    {
+        "id": "",
+        "nombre": "Allianz",
+        "nombreUy": "ALLIANZ #36",
+        "nombrearchivo": "logo_allianz_b.png",
+        "siniestros": "08007777243",
+        "grua": "0800130700"
+    },
+    {
+        "id": "",
+        "nombre": "Bradesco",
+        "nombreUy": "BRADESCO SEGUROS",
+        "nombrearchivo": "logo_bradesco_b.png",
+        "siniestros": "08007012757",
+        "grua": "08007012757"
+    },
+    {
+        "id": "",
+        "nombre": "HDI",
+        "nombreUy": "HDI SEGUROS",
+        "nombrearchivo": "logo_hdi_b.png",
+        "siniestros": "08004344340",
+        "grua": "08004344340"
+    },
+    {
+        "id": "",
+        "nombre": "Tokio Marine",
+        "nombreUy": "TOKIO MARINE",
+        "nombrearchivo": "logo_tokiomarine_b.png",
+        "siniestros": "03003386546",
+        "grua": "03003386546"
+    },
+    {
+        "id": "",
+        "nombre": "Zurich",
+        "nombreUy": "ZURICH SEGUROS",
+        "nombrearchivo": "logo_zurich_b.png",
+        "siniestros": "08002854141",
+        "grua": "08002854141"
+    },
+    {
+        "id": "",
+        "nombre": "Sompo",
+        "nombreUy": "SOMPO SEGUROS",
+        "nombrearchivo": "logo_sompo_b.png",
+        "siniestros": "08007719119",
+        "grua": "08007719119"
+    },
+    {
+        "id": "",
+        "nombre": "MAPFRE",
+        "nombreUy": "MAPFRE SEGUROS S.A. #213",
+        "nombrearchivo": "logo_mapfre_b.png",
+        "siniestros": "40040101",
+        "grua": "40040101"
+    },
+    {
+        "id": "",
+        "nombre": "Suhai",
+        "nombreUy": "SUHAI SEGUROS",
+        "nombrearchivo": "logo_suhai_b.png",
+        "siniestros": "30030335",
+        "grua": "08003278424"
+    },
+    {
+        "id": "",
+        "nombre": "Sancor",
+        "nombreUy": "SANCOR SEGUROS #224",
+        "nombrearchivo": "logo_sancor_b.png",
+        "siniestros": "08002000395",
+        "grua": "08002000395"
+    },
+    {
+        "id": "133",
+        "nombre": "Premiar",
+        "grua": "11-3988-7092",
+        "nombrearchivo": "logo_premiar_b.png"
+    }
+]

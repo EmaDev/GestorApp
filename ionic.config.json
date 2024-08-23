@@ -1,0 +1,8 @@
+{
+  "name": "GestorApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "e6449d40"
+}

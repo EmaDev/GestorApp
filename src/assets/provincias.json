@@ -1,0 +1,98 @@
+[
+    {
+      "value": "BUENOS AIRES",
+      "label": "BUENOS AIRES"
+    },
+    {
+      "value": "CAPITAL FEDERAL",
+      "label": "CAPITAL FEDERAL"
+    },
+    {
+      "value": "CATAMARCA",
+      "label": "CATAMARCA"
+    },
+    {
+      "value": "CHACO",
+      "label": "CHACO"
+    },
+    {
+      "value": "CHUBUT",
+      "label": "CHUBUT"
+    },
+    {
+      "value": "CORDOBA",
+      "label": "CORDOBA"
+    },
+    {
+      "value": "CORRIENTES",
+      "label": "CORRIENTES"
+    },
+    {
+      "value": "ENTRE RIOS",
+      "label": "ENTRE RIOS"
+    },
+    {
+      "value": "FORMOSA",
+      "label": "FORMOSA"
+    },
+    {
+      "value": "JUJUY",
+      "label": "JUJUY"
+    },
+    {
+      "value": "LA PAMPA",
+      "label": "LA PAMPA"
+    },
+    {
+      "value": "LA RIOJA",
+      "label": "LA RIOJA"
+    },
+    {
+      "value": "MENDOZA",
+      "label": "MENDOZA"
+    },
+    {
+      "value": "MISIONES",
+      "label": "MISIONES"
+    },
+    {
+      "value": "NEUQUEN",
+      "label": "NEUQUEN"
+    },
+    {
+      "value": "RIO NEGRO",
+      "label": "RIO NEGRO"
+    },
+    {
+      "value": "SALTA",
+      "label": "SALTA"
+    },
+    {
+      "value": "SAN JUAN",
+      "label": "SAN JUAN"
+    },
+    {
+      "value": "SAN LUIS",
+      "label": "SAN LUIS"
+    },
+    {
+      "value": "SANTA CRUZ",
+      "label": "SANTA CRUZ"
+    },
+    {
+      "value": "SANTA FE",
+      "label": "SANTA FE"
+    },
+    {
+      "value": "SGO.DEL ESTERO",
+      "label": "SGO.DEL ESTERO"
+    },
+    {
+      "value": "T.F./ANTAR E IS",
+      "label": "T.F./ANTAR E IS"
+    },
+    {
+      "value": "TUCUMAN",
+      "label": "TUCUMAN"
+    }
+  ]
